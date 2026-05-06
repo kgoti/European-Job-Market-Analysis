@@ -2,7 +2,6 @@
 
 **Tools:** Python · SQL · Power BI
 **Domain:** Labour Market Analytics / HR Analytics
-**Level:** Intermediate
 
 ---
 
@@ -72,11 +71,11 @@ python python/generate_data.py
 
 ## 💡 Power BI Dashboard Pages
 
-1. **Market Overview** — Total postings, role breakdown, YoY trend
-2. **Skill Heatmap** — Top skills by role category
-3. **Salary Explorer** — Salary by role, experience level, city (with slicers)
-4. **Geography** — Map visual, top hiring cities
-5. **Work Mode & Language** — Remote/hybrid trends, German requirement rate
+1. **Market Overview** : Total postings, role breakdown, YoY trend
+2. **Skill Heatmap** : Top skills by role category
+3. **Salary Explorer** : Salary by role, experience level, city (with slicers)
+4. **Geography** : Map visual, top hiring cities
+5. **Work Mode & Language** : Remote/hybrid trends, German requirement rate
 
 ---
 
