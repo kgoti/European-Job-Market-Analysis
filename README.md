@@ -54,7 +54,7 @@ This project is uniquely positioned — it's directly relevant to the job market
 - **SQL** is the #1 required skill across all data roles (appears in 85%+ of postings)
 - **Power BI** is the dominant BI tool in DACH, far ahead of Tableau
 - **Hybrid work** accounts for ~50% of all postings; fully remote ~15%
-- **German is required** in ~70% of postings — language learning pays off directly
+- **German is required** in ~70% of postings - language learning pays off directly
 - **Data Engineers** command the highest salaries; **BI Analysts** have the most postings
 
 ---
